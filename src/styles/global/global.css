@@ -1,6 +1,7 @@
 body {
   --bg-color: var(--color-base-light);
   --fg-color: var(--color-base-dark);
+  --text-color: var(--color-text-dark);
   --bg-color-subtle: var(--color-gray-subtle-light);
   --fg-color-subtle: var(--color-gray-light);
   --accent-color: var(--color-accent-light);
@@ -10,7 +11,7 @@ body {
   font-weight: var(--font-weight-base);
   line-height: var(--line-height-base);
   background: var(--bg-color);
-  color: var(--fg-color);
+  color: var(--text-color);
   letter-spacing: var(--tracking);
   display: flex;
   flex-direction: column;
@@ -84,7 +85,7 @@ blockquote:not([class]) {
 /* Generic elements */
 
 em {
-  color: var(--accent-color);
+  /* color: var(--accent-color); */
 }
 
 blockquote:not([class]) {
