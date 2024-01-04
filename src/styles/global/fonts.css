@@ -1,15 +1,15 @@
 @font-face {
-  font-family: 'Silk';
+  font-family: 'UnCut';
   font-style: normal;
-  font-weight: 100;
+  font-weight: 300;
   font-display: swap;
-  src: local(''), url('/fonts/SilkSerif-ExtraLight.woff2') format('woff2');
+  src: local(''), url('/fonts/Uncut-Sans-Regular.woff') format('woff');
 }
 
 @font-face {
-  font-family: 'Silk';
+  font-family: 'UnCut';
   font-style: normal;
-  font-weight: 200;
+  font-weight: 600;
   font-display: swap;
-  src: local(''), url('/fonts/SilkSerif-Light.woff2') format('woff2');
+  src: local(''), url('/fonts/Uncut-Sans-Bold.woff') format('woff');
 }

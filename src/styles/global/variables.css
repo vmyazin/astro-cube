@@ -3,7 +3,7 @@
 
   --color-base-light: hsl(0, 0%, 98%);
   --color-base-dark: hsl(42, 100%, 59%);
-  --color-accent-dark: hsl(237, 90%, 80%);
+  --color-accent-dark: hsl(236, 48%, 36%);
   --color-accent-light: hsl(54, 70%, 21%);
   --color-gray-light: hsl(206, 5.8%, 52.3%);
   --color-gray-subtle-light: hsl(208, 11.3%, 88.9%);
@@ -13,12 +13,12 @@
 
   /* Fonts */
 
-  --font-base: system-ui, sans-serif;
-  --font-heading: 'Silk', serif;
-  --font-weight-heading-1: 100;
-  --font-weight-heading-2: 200;
-  --font-weight-base: 400;
-  --font-weight-bold: 700;
+  --font-base: 'UnCut', system-ui, sans-serif;
+  --font-heading: 'UnCut', system-ui, serif;
+  --font-weight-heading-1: 600;
+  --font-weight-heading-2: 300;
+  --font-weight-base: 300;
+  --font-weight-bold: 600;
   --content-measure: 60ch;
   --outline-offset: 0.25rem;
   --outline-size: 2px;
